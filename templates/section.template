@@ -1,0 +1,10 @@
+<div class="#container#">
+	<select>
+		#LS-one#
+			<option class="~class~">~content~</option>
+		#LE#
+		#LS-two#
+			<option>~content~</option>
+		#LE#
+	</select>
+</div>

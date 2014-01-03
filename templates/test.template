@@ -1,0 +1,7 @@
+<div class="#container#">
+	<select>
+		#LS-one#
+			<option>~content~</option>
+		#LE#
+	</select>
+</div>
